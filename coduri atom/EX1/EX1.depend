@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1615493131 source:c:\users\const\desktop\mare mue\ex1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"sortare.h"
+
+1615493376 c:\users\const\desktop\mare mue\ex1\sortare.h
+
+1615493569 source:c:\users\const\desktop\mare mue\ex1\sortare.c
+

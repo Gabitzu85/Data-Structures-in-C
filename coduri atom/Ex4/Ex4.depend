@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1615563530 source:c:\users\const\desktop\mare mue\ex4\count_sort.c
+
+1615563784 source:c:\users\const\desktop\mare mue\ex4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"count_sort.h"
+
+1615563529 c:\users\const\desktop\mare mue\ex4\count_sort.h
+
