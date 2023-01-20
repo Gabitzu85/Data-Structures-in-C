@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1615542197 source:c:\users\const\desktop\mare mue\ex2\ex2.c
+
+1615542299 source:c:\users\const\desktop\mare mue\ex2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ex2.h"
+
+1615541869 c:\users\const\desktop\mare mue\ex2\ex2.h
+

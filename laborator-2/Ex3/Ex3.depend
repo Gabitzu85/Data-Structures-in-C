@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1615553456 source:c:\users\const\desktop\mare mue\ex3\merge_sort_struct.c
+
+1615553352 source:c:\users\const\desktop\mare mue\ex3\main.c
+	<stdio.h>
+	<stdlib.h>
+
